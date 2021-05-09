@@ -74,6 +74,9 @@ namespace Custom_list_and_CustomStack_WorkShop
                 int element = this.array[i];
                 int a = func(element);
                 this.array[i] = a;
+
+                //The same as above but on one line
+                //this.array[i] = func(this.array[i]);
             }
         }
         private void Validate()
