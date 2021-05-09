@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced_2021_Linked_List_1", "Advanced_2021_Linked_List_1\Advanced_2021_Linked_List_1.csproj", "{9A16A47C-31D0-472F-9CB2-73A84E2EDC85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "Advanced_2021_Linked_List_1\LinkedList.csproj", "{9A16A47C-31D0-472F-9CB2-73A84E2EDC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_list_and_CustomStack_WorkShop", "Custom_list_and_CustomStack_WorkShop\Custom_list_and_CustomStack_WorkShop.csproj", "{AEB1370E-FB3C-4F71-8E4C-33BFD80BE4BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9A16A47C-31D0-472F-9CB2-73A84E2EDC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A16A47C-31D0-472F-9CB2-73A84E2EDC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A16A47C-31D0-472F-9CB2-73A84E2EDC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB1370E-FB3C-4F71-8E4C-33BFD80BE4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB1370E-FB3C-4F71-8E4C-33BFD80BE4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB1370E-FB3C-4F71-8E4C-33BFD80BE4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB1370E-FB3C-4F71-8E4C-33BFD80BE4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

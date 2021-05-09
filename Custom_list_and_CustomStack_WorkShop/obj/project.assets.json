@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\Advanced_2021_Linked_List_1\\Advanced_2021_Linked_List_1\\LinkedList.csproj",
-      "projectName": "LinkedList",
-      "projectPath": "C:\\Users\\A474627\\source\\repos\\Advanced_2021_Linked_List_1\\Advanced_2021_Linked_List_1\\LinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\A474627\\source\\repos\\Advanced_2021_Linked_List_1\\Custom_list_and_CustomStack_WorkShop\\Custom_list_and_CustomStack_WorkShop.csproj",
+      "projectName": "Custom_list_and_CustomStack_WorkShop",
+      "projectPath": "C:\\Users\\A474627\\source\\repos\\Advanced_2021_Linked_List_1\\Custom_list_and_CustomStack_WorkShop\\Custom_list_and_CustomStack_WorkShop.csproj",
       "packagesPath": "C:\\Users\\A474627\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A474627\\source\\repos\\Advanced_2021_Linked_List_1\\Advanced_2021_Linked_List_1\\obj\\",
+      "outputPath": "C:\\Users\\A474627\\source\\repos\\Advanced_2021_Linked_List_1\\Custom_list_and_CustomStack_WorkShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A474627\\AppData\\Roaming\\NuGet\\NuGet.Config",
